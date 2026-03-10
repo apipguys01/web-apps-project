@@ -94,14 +94,6 @@ Buka: **http://localhost:8000**
 
 ---
 
-## 👤 Akun Demo
-
-| Role | Email | Password |
-|------|-------|----------|
-| 👑 Owner | owner@warungbudi.com | password |
-| 🧑 Kasir | siti@warungbudi.com | password |
-| 🧑 Kasir | andi@warungbudi.com | password |
-
 ---
 
 ## 📁 Struktur Proyek
